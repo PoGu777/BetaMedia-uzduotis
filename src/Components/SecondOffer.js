@@ -5,7 +5,7 @@ import { ReactComponent as PersonLogo } from '../assets/red-person.svg';
 import { ReactComponent as TimeLogo } from '../assets/time.svg';
 import { ReactComponent as DateLogo } from '../assets/date.svg';
 
-function FirstOffer () {
+function SecondOffer () {
     return (
         <div className='container'>
             <div className='container_header'>
@@ -49,4 +49,4 @@ function FirstOffer () {
     )
 };
 
-export default FirstOffer;
+export default SecondOffer;
