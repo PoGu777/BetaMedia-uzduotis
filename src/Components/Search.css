@@ -1,0 +1,55 @@
+.logo {
+    max-width: 30px;
+    max-height: 30px;
+    float: left;
+    padding-top: 10px;
+}
+
+.search_border {
+    float: left;
+    min-width: 300px;
+    min-height: 400px;
+    margin-left: 10%;
+}
+
+.miestas {
+    float: left;
+    margin: 0%;
+    margin-left: 10%;
+    padding-top: 10px;
+}
+
+
+
+.town_border {
+    min-width: 300px;
+    min-height: 50px;
+    margin-top: 20px;
+    border-top: 1px solid gray
+}
+
+.stay_time_border {
+    min-width: 300px;
+    min-height: 50px;
+    margin-top: 10px;
+    border-top: 1px solid gray
+}
+
+.people_amount_border {
+    min-width: 300px;
+    min-height: 50px;
+    margin-top: 10px;
+    border-top: 1px solid gray
+}
+
+.search_price_border {
+    min-width: 300px;
+    min-height: 50px;
+    margin-top: 10px;
+    border-top: 1px solid gray
+}
+
+@media only screen and (max-width: 400px) {
+    
+
+}

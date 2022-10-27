@@ -1,0 +1,43 @@
+.container_header_second {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzvwUAR1ZO8dZw-bUA-mpAqJcofqlc7xBZpg&usqp=CAU");
+    min-height: 200px;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.container_second {
+    min-height: 500px;
+    max-width: 300px;
+    background-color: gainsboro;
+    margin-left: 5%;
+    float: left;
+    border-radius: 25px;
+
+}
+
+.tik_pas_mus {
+    color: aqua;
+    border-style: solid;
+    border-width: 1px 1px;
+    padding: 3px 3px;
+    margin: 0%;
+    float: left;
+}
+
+.crossed {
+    margin: 0%;
+    text-decoration: line-through;
+}
+
+.discount_logo {
+    max-height: 50px;
+    max-width: 50px;
+}
+
+@media only screen and (max-width: 400px) {
+    .container_second {
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+
+}
